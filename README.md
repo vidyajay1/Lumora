@@ -1,2 +1,2 @@
 # Lumora
-daily self care challenges
+daily self care event challenges
