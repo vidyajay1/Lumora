@@ -1,3 +1,3 @@
 # Lumora
-daily self care event challenges at this website: 
+daily self care event challenges: 
 [Self-Care](https://cake-fling-90608888.figma.site/)
